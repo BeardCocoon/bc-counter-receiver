@@ -1,8 +1,27 @@
 body {
-    background: #fafafa;
+    background: #333;
+    font-family: Helvetica, sans-serif;
 }
 
-.hero-unit {
-    margin: 50px auto 0 auto;
-    width: 300px;
+.person {
+	padding: 20px 0 0 0;
+	background: #666;
+	float: left;
+	margin: 20px;
+	color: #fff;
+	text-align: center;
+	border-radius: 15px;
+}
+
+.name {
+	font-weight: bold;
+	font-size: 35px;
+}
+
+.score {
+	margin: 20px 5px 5px;
+	background: #333;
+	padding: 50px;
+	border-radius: 15px;
+	font-size: 80px;
 }
