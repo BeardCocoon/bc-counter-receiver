@@ -4,16 +4,16 @@
 		"selected_items":
 		[
 			[
+				"update",
+				"updateDisplay"
+			],
+			[
 				"cou",
 				"countdown"
 			],
 			[
 				"count",
 				"Countdown"
-			],
-			[
-				"update",
-				"updateBackground"
 			],
 			[
 				"first",
@@ -704,6 +704,14 @@
 	},
 	"file_history":
 	[
+		"/Users/erikbye/Dropbox/Dev/Counter/app/styles/main.css",
+		"/Users/erikbye/Dropbox/Dev/Counter/app/scripts/main.js",
+		"/Users/erikbye/Dropbox/Dev/Counter/app/index.html",
+		"/Users/erikbye/Dropbox/Dev/Counter/app/scripts/models/person.js",
+		"/Users/erikbye/Dropbox/Dev/Counter/app/scripts/views/person.js",
+		"/Users/erikbye/Dropbox/Dev/Counter/app/scripts/templates/person.ejs",
+		"/private/var/folders/qg/7xvr85f51d1bfgpmc68cv5_w0000gn/T/2f955853-f76b-4793-a377-d0b235226e3c/home/rhythmyx/import/web24content/content/dev/temp/terms.js",
+		"/Users/erikbye/Dropbox/Dev/Counter/Counter.sublime-project",
 		"/Users/erikbye/Dropbox/Dev/Countdown/app/scripts/models/flickr.js",
 		"/Users/erikbye/Dropbox/Dev/Countdown/app/index.html",
 		"/Users/erikbye/Dropbox/Dev/Countdown/app/scripts/templates/output.ejs",
@@ -823,15 +831,7 @@
 		"/Users/erikbye/Dropbox/Work/CMS/mobile/app/scripts/siteTracking_backup.js",
 		"/Users/erikbye/Dropbox/Work/CMS/mobile/app/scripts/siteTracking.js",
 		"/private/var/folders/qg/7xvr85f51d1bfgpmc68cv5_w0000gn/T/f728af91-6e9b-419b-97c6-d6d804a90440/public_html/elliesgames/tv/index.php",
-		"/Users/erikbye/TEMP/survey/survey.js",
-		"/Users/erikbye/Dropbox/Work/Work.sublime-project",
-		"/Users/erikbye/Dropbox/Work/CMS/static/website/snippets/club_list/city.ftl",
-		"/Users/erikbye/Dropbox/Work/Webpages/redesign/Redesign.sublime-project",
-		"/Users/erikbye/Work/Webpages/redesign",
-		"/Users/erikbye/Work/Webpages/redesign/sass/partials/_navigation.scss",
-		"/Users/erikbye/Work/Webpages/redesign/sass/partials/_header.scss",
-		"/private/var/folders/qg/7xvr85f51d1bfgpmc68cv5_w0000gn/T/103a91dd-0d2c-4137-aad8-58a2964c2fcc/public_html/dev/cross/style.css",
-		"/Users/erikbye/TEMP/unsubscribe/unsubscribe.js"
+		"/Users/erikbye/TEMP/survey/survey.js"
 	],
 	"find":
 	{
@@ -852,6 +852,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"erik",
+			"Counter",
 			"pics",
 			"inputDate",
 			"updateDate",
@@ -977,9 +979,7 @@
 			"displayResults",
 			"fadeOutAll",
 			"#map",
-			".map",
-			"window.map",
-			"clubResults"
+			".map"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1082,20 +1082,40 @@
 		"selected_items":
 		[
 			[
-				"flic",
-				"app/scripts/models/flickr.js"
-			],
-			[
 				"index",
 				"app/index.html"
 			],
 			[
-				"output",
-				"app/scripts/templates/output.ejs"
+				"main.cs",
+				"app/styles/main.css"
 			],
 			[
 				"main",
 				"app/scripts/main.js"
+			],
+			[
+				"person",
+				"app/scripts/models/person.js"
+			],
+			[
+				"main.c",
+				"app/styles/main.css"
+			],
+			[
+				"perso",
+				"app/scripts/models/person.js"
+			],
+			[
+				"ind",
+				"app/index.html"
+			],
+			[
+				"flic",
+				"app/scripts/models/flickr.js"
+			],
+			[
+				"output",
+				"app/scripts/templates/output.ejs"
 			],
 			[
 				"flickr",
@@ -1126,16 +1146,8 @@
 				"app/scripts/templates/output.ejs"
 			],
 			[
-				"main.c",
-				"app/styles/main.css"
-			],
-			[
 				"flicr",
 				"app/scripts/models/flickr.js"
-			],
-			[
-				"main.cs",
-				"app/styles/main.css"
 			],
 			[
 				"outpu",
@@ -1458,10 +1470,6 @@
 				"script/slider.js"
 			],
 			[
-				"ind",
-				"/Users/erikbye/TEMP/unsubscribe/index.html"
-			],
-			[
 				"unsub",
 				"/Users/erikbye/TEMP/unsubscribe/index.html"
 			],
@@ -1584,14 +1592,6 @@
 			[
 				"train",
 				"training.php"
-			],
-			[
-				"pa",
-				"pass-post-example.html"
-			],
-			[
-				"gym",
-				"script/gyms.js"
 			]
 		],
 		"width": 0.0

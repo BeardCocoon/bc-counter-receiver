@@ -1,6 +1,7 @@
 body {
     background: #333;
     font-family: Helvetica, sans-serif;
+    color: #FFF;
 }
 
 .person {
@@ -8,7 +9,6 @@ body {
 	background: #666;
 	float: left;
 	margin: 20px;
-	color: #fff;
 	text-align: center;
 	border-radius: 15px;
 }
@@ -24,4 +24,31 @@ body {
 	padding: 50px;
 	border-radius: 15px;
 	font-size: 80px;
+	min-width: 88px;
+}
+
+
+#setup {
+	position: absolute;
+	width: 600px;
+	height: 300px;
+	border-radius: 60px;
+	text-align: center;
+	top: 50%;
+	left: 50%;
+	margin-left: -300px;
+	margin-top: -150px;
+	background: #666;
+	box-shadow: rgba(0,0,0,.4) 0 0 20px;
+}
+
+h1 {
+	font-size: 100px;
+	text-transform: uppercase;
+}
+
+h2 {
+	margin-top: -50px;
+	font-weight: normal;
+	font-size: 16px;
 }
